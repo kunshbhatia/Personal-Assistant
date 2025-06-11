@@ -1,0 +1,6 @@
+## List all required packages 
+
+pyttsx3
+SpeechRecognition
+wikipedia
+AppOpener
