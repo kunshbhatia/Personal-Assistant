@@ -1,6 +1,8 @@
-## List all required packages 
-
+speech_recognition
 pyttsx3
-SpeechRecognition
+pyaudio
 wikipedia
+webbrowser
+datetime
+time
 AppOpener
